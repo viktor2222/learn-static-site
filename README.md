@@ -3,7 +3,7 @@
 
 ## Learn-jekyll-10-12-2018
 
-#### Step by Step Tutorial
+#### Step by Step [Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
 
 ## Description-jekyll-10-12-2018
 
