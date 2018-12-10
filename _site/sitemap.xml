@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/authors/jhon.html</loc>
+<lastmod>2018-12-10T15:36:37+02:00</lastmod>
+</url>
+<url>
+<loc>/authors/ted.html</loc>
+<lastmod>2018-12-10T15:36:37+02:00</lastmod>
+</url>
+<url>
+<loc>/2018/12/05/kiwifruit.html</loc>
+<lastmod>2018-12-05T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>/2018/12/08/bananas.html</loc>
+<lastmod>2018-12-08T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>/2018/12/10/apples.html</loc>
+<lastmod>2018-12-10T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>/about.html</loc>
+</url>
+<url>
+<loc>/blog.html</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/staff.html</loc>
+<lastmod>2018-12-10T15:27:58+02:00</lastmod>
+</url>
+</urlset>
