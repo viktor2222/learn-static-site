@@ -17,5 +17,5 @@
 * [Data Files](https://jekyllrb.com/docs/step-by-step/06-data-files/)
 * [Assets](https://jekyllrb.com/docs/step-by-step/07-assets/) 
 * [Blogging](https://jekyllrb.com/docs/step-by-step/08-blogging/)
-* [Collections](https://jekyllrb.com/docs/step-by-step/09-collections/)\
+* [Collections](https://jekyllrb.com/docs/step-by-step/09-collections/)
 * [Deployment](https://jekyllrb.com/docs/step-by-step/10-deployment/)
