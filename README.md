@@ -33,3 +33,7 @@
 <p> First make sure that you have 'middleman-livereload' in your Gemfile. Then simply open your config.rb and add:</p>
 
     activate :livereload
+### Deploying the site
+
+    $ middleman build [--clean]
+    $ middleman deploy [--build-before]
