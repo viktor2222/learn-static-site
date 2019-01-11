@@ -28,3 +28,8 @@
     $ middleman init
 
     $ bundle exec middleman server
+
+
+<p> First make sure that you have 'middleman-livereload' in your Gemfile. Then simply open your config.rb and add:</p>
+
+    activate :livereload
