@@ -37,3 +37,15 @@
 
     $ middleman build [--clean]
     $ middleman deploy [--build-before]
+
+### Production Asset Hashing & CDN Configuration
+
+    configure :build do
+      activate :minify_css
+      activate :minify_javascript
+
+  
+      activate :asset_hash
+
+      activate :asset_host, :host => '//YOURDOMAIN.cloudfront.net'
+    end
