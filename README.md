@@ -21,3 +21,9 @@
     $ middleman server
     $ middleman build
     
+### Starting a New Site
+
+<p>To get started we will need to create a project folder for Middleman to work out of. You can do this using an existing folder or have Middleman create one for you using the middleman init command.</p>
+
+    $ middleman init
+
