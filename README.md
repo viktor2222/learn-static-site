@@ -1,8 +1,8 @@
 # learn-static-site
 
-# learn-static-site-middleman
+## learn-static-site-middleman
 
-## Installation
+### Installation
 
 <p>Middleman is distributed using the RubyGems package manager. This means you will need both the Ruby language runtime installed and RubyGems to begin using Middleman.</p>
 
