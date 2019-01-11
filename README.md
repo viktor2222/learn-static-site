@@ -1,5 +1,6 @@
 # learn-static-site
 
+# learn-static-site-middleman
 
 ## Installation
 
