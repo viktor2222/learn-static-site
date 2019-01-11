@@ -27,3 +27,4 @@
 
     $ middleman init
 
+    $ bundle exec middleman server
