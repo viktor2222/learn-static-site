@@ -6,6 +6,8 @@
 
 <p>Middleman is distributed using the RubyGems package manager. This means you will need both the Ruby language runtime installed and RubyGems to begin using Middleman.</p>
 
+    $ sudo apt install ruby-full
+    
 
 <p>Once you have Ruby and RubyGems up and running, execute the following from the command line:</p>
 
