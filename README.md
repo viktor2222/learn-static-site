@@ -17,7 +17,7 @@
 
     $ sudo apt-get remove ruby
     
-<p>After removing ruby. 
+<p>After removing ruby. Then reinstall ruby using rbenv and ruby-build according to their docs:</p>
     
     cd $HOME
     sudo apt-get update 
