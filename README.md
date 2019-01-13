@@ -17,7 +17,32 @@
 
     $ sudo apt-get remove ruby
     
-<p>After removing ruby. You need to install ruby using one of the methods to view the <a href="https://linuxize.com/post/how-to-install-ruby-on-ubuntu-18-04/">documentation</a>. After these manipulations, try to install Middleman again</p>
+<p>After removing ruby. 
+    
+    cd $HOME
+    sudo apt-get update 
+    sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev
+
+    git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+    echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+    echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+    exec $SHELL
+
+    git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+    echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+    exec $SHELL
+
+    rbenv install 2.3.1
+    rbenv global 2.3.1
+    ruby -v
+    
+    gem install middleman
+    
+<p>After installing any gems that are binary files, you need to run rbenv rehash</p>
+
+    rbenv rehash
+    
+After these manipulations, try to install Middleman again</p>
     
 <p>This will install Middleman, its dependencies and the command-line tools for using Middleman.</p>
 
