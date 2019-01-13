@@ -17,8 +17,7 @@
 
     $ sudo apt-get remove ruby
     
-<p>After removing ruby. You need to install ruby using one of the methods to view the (documentation)[https://linuxize.com/post/how-to-install-ruby-on-ubuntu-18-04/]. Me helped the RVM method. 
-After these manipulations, try to install Middleman again</p>
+<p>After removing ruby. You need to install ruby using one of the methods to view the [documentation](https://linuxize.com/post/how-to-install-ruby-on-ubuntu-18-04/). After these manipulations, try to install Middleman again</p>
     
 <p>This will install Middleman, its dependencies and the command-line tools for using Middleman.</p>
 
